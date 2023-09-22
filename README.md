@@ -1,13 +1,8 @@
 
 
 <h1>
-  hey there
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<img src="https://komarev.com/ghpvc/?username=everseventeen17&style=flat-square&color=brightgreen" alt="Views counter">
 </h1>
-<div id="views-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=everseventeen17&style=flat-square&color=brightgreen" alt="Views counter">
-</div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
