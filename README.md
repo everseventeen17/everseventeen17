@@ -1,16 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="views-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=everseventeen17&style=flat-square&color=brightgreen" alt="Views counter">
-</div>
+
+
 <h1>
   hey there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-
-<p align="center">I have been living in Russia and working for 2 years now.</p>
-
+<div id="views-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=everseventeen17&style=flat-square&color=brightgreen" alt="Views counter">
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,4 +32,5 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/everseventeen) 
+[![codewars](https://www.codewars.com/users/everseventeen/badges/large)](https://www.codewars.com/users/everseventeen) 
+
