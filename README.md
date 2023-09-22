@@ -6,7 +6,7 @@
 </div>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
 <p align="center">I have been living in Russia and working for 2 years now.</p>
@@ -36,4 +36,4 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/everseventeen17) 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/everseventeen) 
