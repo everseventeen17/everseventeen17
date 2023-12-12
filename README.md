@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=everseventeen17&style=flat-square&color=brightgreen" alt="Views counter">
 </h1>
 
-### :hammer_and_wrench: Languages and Tools :
+ Languages and Tools :
 
 <div id="stack">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@
 
 ---
 
-### :fire: My Stats :
+ My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=everseventeen17&theme=tokyonight&locale=ru&fire=EB5454)](https://git.io/streak-stats)
 
